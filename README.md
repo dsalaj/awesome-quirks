@@ -10,3 +10,5 @@ Please contribute by adding entries any way you prefer (new issue, pull request,
   - [dimage.js](https://jjkaufman.github.io/dimage.js/) – Never settle for two dimensions 
   - [quirky-ux](http://dsalaj.com/quirky-ux/) – inject a website with some glitter and character
   - [shiny](https://github.com/rikschennink/shiny) - shiny reflections for mobile websites
+  - [Rough.js](https://roughjs.com/) - Create graphics with a hand-drawn, sketchy, appearance
+  - [Wired Elements](https://wiredjs.com/) - A set of common UI elements with a hand-drawn, sketchy look
