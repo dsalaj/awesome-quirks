@@ -5,6 +5,8 @@
 A list of projects aiming to add *quirky* effects to websites.
 Please contribute by adding entries any way you prefer (new issue, pull request, request to become a contributor...)
 
+
   - [Wiv.js](https://jjkaufman.github.io/wiv.js/) – A library for a more wiggly div
   - [dimage.js](https://jjkaufman.github.io/dimage.js/) – Never settle for two dimensions 
   - [quirky-ux](http://dsalaj.com/quirky-ux/) – inject a website with some glitter and character
+  - [shiny](https://github.com/rikschennink/shiny) - shiny reflections for mobile websites
