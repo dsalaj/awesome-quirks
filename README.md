@@ -7,6 +7,7 @@ Please contribute by adding entries any way you prefer (new issue, pull request,
 
 
 
+  - [Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%92) - upgrade your URL bar
   - [dimage.js](https://jjkaufman.github.io/dimage.js/) – Never settle for two dimensions 
   - [quirky-ux](http://dsalaj.com/quirky-ux/) – Inject a website with some glitter and character
   - [Rough.js](https://roughjs.com/) – Create graphics with a hand-drawn, sketchy, appearance
