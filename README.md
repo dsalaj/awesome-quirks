@@ -8,6 +8,7 @@ Please contribute by adding entries any way you prefer (new issue, pull request,
 
 
   - [dimage.js](https://jjkaufman.github.io/dimage.js/) – Never settle for two dimensions 
+  - [NES.css](https://github.com/nostalgic-css/NES.css) – NES-style CSS Framwork
   - [quirky-ux](http://dsalaj.com/quirky-ux/) – Inject a website with some glitter and character
   - [Rough.js](https://roughjs.com/) – Create graphics with a hand-drawn, sketchy, appearance
   - [shiny](https://github.com/rikschennink/shiny) – Shiny reflections for mobile websites
