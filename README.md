@@ -8,6 +8,7 @@ Please contribute by adding entries any way you prefer (new issue, pull request,
 
 
   - [Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%92) - upgrade your URL bar
+  - [augmented-ui](http://augmented-ui.com/) – Cyberpunk-inspired UI shaping for any element
   - [dimage.js](https://jjkaufman.github.io/dimage.js/) – Never settle for two dimensions 
   - [NES.css](https://github.com/nostalgic-css/NES.css) – NES-style CSS Framwork
   - [quirky-ux](http://dsalaj.com/quirky-ux/) – Inject a website with some glitter and character
