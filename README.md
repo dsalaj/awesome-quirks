@@ -18,3 +18,4 @@ Please contribute by adding entries any way you prefer (new issue, pull request,
   - [VHS text](https://codepen.io/Shorina/pen/egJmeY/) – VHS effect, not glitch
   - [Wired Elements](https://wiredjs.com/) – A set of common UI elements with a hand-drawn, sketchy look
   - [Wiv.js](https://jjkaufman.github.io/wiv.js/) – A library for a more wiggly div
+  - [pet_cursor.js](https://github.com/alienmelon/pet_cursor.js) - a simple javascript file that turns your website's cursor into a cute animated pet! (for the desktop)
