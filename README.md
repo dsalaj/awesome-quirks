@@ -9,6 +9,7 @@ Please contribute by adding entries any way you prefer (new issue, pull request,
 
   - [Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%92) - upgrade your URL bar
   - [augmented-ui](http://augmented-ui.com/) – Cyberpunk-inspired UI shaping for any element
+  - [Cascade](https://raphaelbastide.com/cascade/) – Cascade is a live-coding parasite to CSS, turning CSS rules into sound
   - [dimage.js](https://jjkaufman.github.io/dimage.js/) – Never settle for two dimensions 
   - [NES.css](https://github.com/nostalgic-css/NES.css) – NES-style CSS Framwork
   - [Glitch Effect](https://css-tricks.com/glitch-effect-text-images-svg/) – general implementation guide for Text / Images / SVG
